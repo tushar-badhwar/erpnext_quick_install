@@ -1,14 +1,11 @@
 # Auto Install Script for ERPNext
-(Almost) No-interactive script for ERPNext V14 installation (also compatible with V13 with minor script edit).
-
-This is an almost no-interactive script for installing ERPNext Version 14. You can set up either development or production with very minimal interaction.
 
 # How To:
 To use this script, follow these steps:
 
 1. Clone the Repo:
 ```
-git clone https://github.com/flexcomng/erpnext_quick_install.git
+git clone https://github.com/tushar-badhwar/erpnext_quick_install.git
 ```
 2. navigate to the folder:
 ```
